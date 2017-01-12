@@ -1,7 +1,4 @@
-package configuration;
-
-import org.springframework.context.annotation.ComponentScan;
-import org.springframework.context.annotation.Configuration;
+package rashjz.info.configuration;
 
 /**
  * Created by rasha_000 on 1/12/2017.
