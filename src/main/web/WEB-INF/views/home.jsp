@@ -31,7 +31,7 @@
 
     <div class="row">
         <div style="margin-top: 40px;" class="col-lg-12 text-center">
-            <h1>Rashad Javadov's Personal Blog</h1>
+            <h1>${user.name} ${user.surname}'s Personal Blog</h1>
 
 
         </div>

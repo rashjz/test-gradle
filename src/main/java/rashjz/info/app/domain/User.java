@@ -1,4 +1,4 @@
-package rashjz.info.domain;
+package rashjz.info.app.domain;
 
 /**
  * Created by Rashad Javadov on 1/12/2017.

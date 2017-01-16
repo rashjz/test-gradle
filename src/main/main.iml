@@ -18,6 +18,16 @@
         </fileset>
       </configuration>
     </facet>
+    <facet type="hibernate" name="Hibernate">
+      <configuration>
+        <datasource-map>
+          <unit-entry name="a.xml" value="f1b06483-9582-45a7-9fd5-f8b5edc307af" />
+          <unit-entry name="hibernate.cfg.xml" value="f1b06483-9582-45a7-9fd5-f8b5edc307af" />
+        </datasource-map>
+        <naming-strategy-map />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/java/hibernate.cfg.xml" />
+      </configuration>
+    </facet>
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
@@ -33,6 +43,8 @@
     <orderEntry type="library" name="org.springframework:spring-web:4.3.4.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: hamcrest-core-1.3" level="project" />
     <orderEntry type="library" name="org.mockito:mockito-core:2.4.0" level="project" />
+    <orderEntry type="library" name="Hibernate 5.2.3-5.2.3" level="project" />
+    <orderEntry type="library" name="mysql:mysql-connector-java:6.0.5" level="project" />
   </component>
 </module>
 

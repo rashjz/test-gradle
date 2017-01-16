@@ -1,4 +1,4 @@
-package rashjz.info.configuration;
+package rashjz.info.app.configuration;
 
 /**
  * Created by rasha_000 on 1/12/2017.
